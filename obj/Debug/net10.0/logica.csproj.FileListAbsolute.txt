@@ -1,0 +1,14 @@
+C:\Users\matia\OneDrive\Documentos\C#\logica\obj\Debug\net10.0\logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Documentos\C#\logica\obj\Debug\net10.0\logica.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Documentos\C#\logica\obj\Debug\net10.0\logica.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Documentos\C#\logica\obj\Debug\net10.0\logica.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Documentos\C#\logica\bin\Debug\net10.0\logica.exe
+C:\Users\matia\OneDrive\Documentos\C#\logica\bin\Debug\net10.0\logica.deps.json
+C:\Users\matia\OneDrive\Documentos\C#\logica\bin\Debug\net10.0\logica.runtimeconfig.json
+C:\Users\matia\OneDrive\Documentos\C#\logica\bin\Debug\net10.0\logica.dll
+C:\Users\matia\OneDrive\Documentos\C#\logica\bin\Debug\net10.0\logica.pdb
+C:\Users\matia\OneDrive\Documentos\C#\logica\obj\Debug\net10.0\logica.dll
+C:\Users\matia\OneDrive\Documentos\C#\logica\obj\Debug\net10.0\refint\logica.dll
+C:\Users\matia\OneDrive\Documentos\C#\logica\obj\Debug\net10.0\logica.pdb
+C:\Users\matia\OneDrive\Documentos\C#\logica\obj\Debug\net10.0\logica.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Documentos\C#\logica\obj\Debug\net10.0\ref\logica.dll

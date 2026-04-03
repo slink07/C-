@@ -1,0 +1,5 @@
+1 - Adicionar pedido
+2 - Ver carrinho
+3 - Remover item
+4 - Finalizar pedido
+5 - Sair
